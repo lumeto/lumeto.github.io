@@ -27,7 +27,7 @@ module.exports = {
     sidebarDepth: 2,
     lastUpdated: "Last Updated",
     author: "",
-    authorAvatar: "/avatar.png",
+    authorAvatar: "./avatar.png",
     record: "xxxx",
     startYear: "2017",
     smoothScroll: true,
