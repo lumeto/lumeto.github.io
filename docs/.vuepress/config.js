@@ -7,7 +7,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "/favicon.ico",
+        href: "./favicon.ico",
       },
     ],
     [
@@ -21,7 +21,7 @@ module.exports = {
   themeConfig: {
     nav: require("./navbar.js"),
     sidebar: require("./sidebar.js"),
-    logo: "/logo.png",
+    logo: "./logo.png",
     search: true,
     searchMaxSuggestions: 10,
     sidebarDepth: 2,
