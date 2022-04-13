@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: lume博客-前端进阶
-tagline: 高级前端进阶之路
+tagline: 高级前端进阶之路-1
 heroImage: /h-hero.png
 heroImageStyle: {
   maxWidth: '640px',
