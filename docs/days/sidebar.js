@@ -58,6 +58,10 @@ module.exports = [
         title: "6-JS-Web-API-存储",
         path: "/days/notes/js/6",
       },
+      {
+        title: "7-原型和原型链",
+        path: "/days/notes/js/7",
+      },
     ],
   },
   {
@@ -69,33 +73,61 @@ module.exports = [
         path: "/days/notes/es6/1",
       },
       {
-        title: "2-let&const",
+        title: "2-symbol",
+        path: "/days/notes/es6/2",
       },
       {
-        title: "3-数组处理方法",
+        title: "3-let和const",
+        path: "/days/notes/es6/3",
       },
       {
-        title: "4-对象处理方法",
+        title: "4-解构赋值",
+        path: "/days/notes/es6/4",
+      },
+      {
+        title: "5-新的对象和方法",
+        path: "/days/notes/es6/5",
+      },
+      {
+        title: "6-函数",
+        path: "/days/notes/es6/6",
+      },
+      {
+        title: "7-class（类）",
+        path: "/days/notes/es6/7",
+      },
+      {
+        title: "8-模块导入和导出",
+        path: "/days/notes/es6/8",
+      },
+      {
+        title: "9-异步机制",
+        path: "/days/notes/es6/9",
       },
     ],
   },
   {
     title: "异步",
     collapsable: true,
-    // children: [
-    //   {
-    //     title: "表单元素",
-    //   },
-    // ],
+    children: [
+      {
+        title: "1-JS 基础异步",
+        path: "/days/notes/async/1",
+      },
+      {
+        title: "2-JS 进阶异步",
+        path: "/days/notes/async/2",
+      },
+    ],
   },
   {
     title: "Vue进阶",
     collapsable: true,
-    // children: [
-    //   {
-    //     title: "表单元素",
-    //   },
-    // ],
+    children: [
+      {
+        title: "表单元素",
+      },
+    ],
   },
   {
     title: "React进阶",
