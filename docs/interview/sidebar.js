@@ -11,12 +11,52 @@ module.exports = [
     ],
   },
   {
-    title: "Js",
+    title: "JavaScript",
     collapsable: false,
     children: [
       {
-        title: "占位符",
-        path: "/interview/notes/js/1",
+        title: "解析 url 参数",
+        path: "/interview/notes/js/解析 url 参数",
+      },
+      {
+        title: "你是否真的会用数组 map",
+        path: "/interview/notes/js/你是否真的会用数组 map",
+      },
+      {
+        title: "如何变量提升",
+        path: "/interview/notes/js/如何变量提升",
+      },
+      {
+        title: "如何获取最大值",
+        path: "/interview/notes/js/如何获取最大值",
+      },
+      {
+        title: "是否用过 Object.create()",
+        path: "/interview/notes/js/是否用过 Object.create()",
+      },
+      {
+        title: "数组 reduce 的用法",
+        path: "/interview/notes/js/数组 reduce 的用法",
+      },
+      {
+        title: "数组去重有几种方式",
+        path: "/interview/notes/js/数组去重有几种方式",
+      },
+      {
+        title: "jsonp 本质是 ajax 吗",
+        path: "/interview/notes/js/jsonp 本质是 ajax 吗",
+      },
+      {
+        title: "Map 和 Object 区别",
+        path: "/interview/notes/js/Map 和 Object 区别",
+      },
+      {
+        title: "Map 和 Set-有序和无序",
+        path: "/interview/notes/js/Map 和 Set-有序和无序",
+      },
+      {
+        title: "Set 和 Array 区别",
+        path: "/interview/notes/js/Set 和 Array 区别",
       },
     ],
   },
