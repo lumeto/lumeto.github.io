@@ -7,7 +7,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "./ilogo.png",
+        href: "/ilogo.png",
       },
     ],
     [
@@ -21,13 +21,13 @@ module.exports = {
   themeConfig: {
     nav: require("./navbar.js"),
     sidebar: require("./sidebar.js"),
-    logo: "./logo.png",
+    logo: "/logo.png",
     search: true,
     searchMaxSuggestions: 10,
     sidebarDepth: 2,
     lastUpdated: "Last Updated",
     author: "",
-    authorAvatar: "./avatar.png",
+    authorAvatar: "/avatar.png",
     record: "xxxx",
     startYear: "2017",
     smoothScroll: true,
