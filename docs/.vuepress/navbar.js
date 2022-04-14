@@ -26,6 +26,10 @@ module.exports = [
     ],
   },
   {
+    text: "面试题",
+    link: "/interview/",
+  },
+  {
     text: "工具",
     link: "/tool/",
   },
