@@ -26,7 +26,7 @@ module.exports = {
     searchMaxSuggestions: 10,
     sidebarDepth: 2,
     lastUpdated: "Last Updated",
-    author: "",
+    author: "lume-博客",
     authorAvatar: "/avatar.png",
     record: "xxxx",
     startYear: "2017",
@@ -48,6 +48,7 @@ module.exports = {
         minLength: 20,
       },
     ],
+    ["vuepress-plugin-smooth-scroll"],
   ],
   markdown: {
     lineNumbers: true,
