@@ -168,7 +168,7 @@ module.exports = [
         path: "/days/notes/program/4",
       },
       {
-        title: "5-实现 bind()",
+        title: "5-实现 call()",
         path: "/days/notes/program/5",
       },
       {
@@ -176,7 +176,7 @@ module.exports = [
         path: "/days/notes/program/6",
       },
       {
-        title: "7-实现 call()",
+        title: "7-实现 bind()",
         path: "/days/notes/program/7",
       },
       {
