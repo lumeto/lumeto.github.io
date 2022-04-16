@@ -160,11 +160,11 @@ module.exports = [
         path: "/days/notes/program/2",
       },
       {
-        title: "3-手写函数防抖",
+        title: "3-手写函数防抖 debounce",
         path: "/days/notes/program/3",
       },
       {
-        title: "4-手写函数节流",
+        title: "4-手写函数节流 throttle",
         path: "/days/notes/program/4",
       },
       {

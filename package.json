@@ -15,5 +15,8 @@
     "vuepress": "^1.9.7",
     "vuepress-plugin-copyright": "^1.0.2",
     "vuepress-plugin-smooth-scroll": "^0.0.10"
+  },
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6"
   }
 }

@@ -41,13 +41,7 @@ module.exports = {
         headerAnchorSelector: ".header-anchor",
       },
     ],
-    [
-      "copyright",
-      {
-        noCopy: false,
-        minLength: 20,
-      },
-    ],
+    ["vuepress-plugin-code-copy", true],
     ["vuepress-plugin-smooth-scroll"],
   ],
   markdown: {
