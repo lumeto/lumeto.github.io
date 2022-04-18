@@ -46,10 +46,10 @@ module.exports = [
         title: "7-实现 bind()",
         path: "/blog/notes/program/7",
       },
-      {
-        title: "8-实现 instanceof",
-        path: "/blog/notes/program/8",
-      },
+      // {
+      //   title: "8-实现 instanceof",
+      //   path: "/blog/notes/program/8",
+      // },
       {
         title: "9-实现 new",
         path: "/blog/notes/program/9",
