@@ -54,10 +54,10 @@ module.exports = [
         title: "9-实现 new",
         path: "/blog/notes/program/9",
       },
-      {
-        title: "10-实现 jsonp",
-        path: "/blog/notes/program/10",
-      },
+      // {
+      //   title: "10-实现 jsonp",
+      //   path: "/blog/notes/program/10",
+      // },
       {
         title: "11-手写 Promise",
         path: "/blog/notes/program/11",

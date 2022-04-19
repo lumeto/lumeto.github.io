@@ -1,0 +1,21 @@
+## Vue父子组件生命周期调用顺序
+
+### 创建时
+父组件必需等所有子组件挂载完成后再挂载
+
+- Parent beforeCreate
+- Parent created
+- Parent beforeMount
+  + Child beforeCreate
+  + Child created
+  + Child beforeMount
+  + Child mounted
+- Parent mounted
+
+### 销毁时
+父组件必需等所有子组件销毁之后再销毁自己
+
+- Parent beforeDestroy
+  + Child beforeDestroy
+  + Child destroyed
+- Parent destroyed
