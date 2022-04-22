@@ -5,8 +5,12 @@ module.exports = [
     collapsable: false,
     children: [
       {
-        title: "1-怎么让一个div水平垂直居中",
+        title: "怎么让一个div水平垂直居中",
         path: "/interview/notes/css/1",
+      },
+      {
+        title: "用CSS实现三角符号",
+        path: "/interview/notes/css/2",
       },
     ],
   },
@@ -140,6 +144,10 @@ module.exports = [
       {
         title: "用vnode来描述一个DOM结构",
         path: "/interview/notes/vue/20",
+      },
+      {
+        title: "vuex面试题",
+        path: "/interview/notes/vue/100",
       },
     ],
   },

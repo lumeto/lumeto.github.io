@@ -141,10 +141,19 @@ module.exports = [
   {
     title: "网络与性能",
     collapsable: true,
-    // children: [
-    //   {
-    //     title: "表单元素",
-    //   },
-    // ],
+    children: [
+      {
+        title: "HTTP 和 HTTPS",
+        path: "/days/notes/network/1",
+      },
+      {
+        title: "从输入URL到页面加载的全过程",
+        path: "/days/notes/network/2",
+      },
+      {
+        title: "重绘与重排",
+        path: "/days/notes/network/3",
+      },
+    ],
   },
 ];
