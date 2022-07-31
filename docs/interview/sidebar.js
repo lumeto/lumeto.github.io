@@ -12,6 +12,10 @@ module.exports = [
         title: "用CSS实现三角符号",
         path: "/interview/notes/css/2",
       },
+      {
+        title: "实现0.5像素",
+        path: "/interview/notes/css/3",
+      },
     ],
   },
   {
@@ -55,12 +59,32 @@ module.exports = [
         path: "/interview/notes/js/9",
       },
       {
-        title: "Map 和 Set-有序和无序",
+        title: "Map 和 Set 区别",
         path: "/interview/notes/js/10",
       },
       {
         title: "Set 和 Array 区别",
         path: "/interview/notes/js/11",
+      },
+      {
+        title: "说一下slice splice split 的区别",
+        path: "/interview/notes/js/12",
+      },
+      {
+        title: "说一下怎么把类数组转换为数组",
+        path: "/interview/notes/js/13",
+      },
+      {
+        title: "说一下for...in 和 for...of的区别",
+        path: "/interview/notes/js/14",
+      },
+      {
+        title: "说一下类组件和函数组件的区别",
+        path: "/interview/notes/js/15",
+      },
+      {
+        title: "说一下类组件和函数组件的区别",
+        path: "/interview/notes/js/16",
       },
     ],
   },
@@ -68,6 +92,10 @@ module.exports = [
     title: "Vue",
     collapsable: false,
     children: [
+      {
+        title: "vue 相关面试题",
+        path: "/interview/notes/vue/0",
+      },
       {
         title: "如何理解MVVM原理",
         path: "/interview/notes/vue/1",
@@ -158,6 +186,16 @@ module.exports = [
       {
         title: "占位符",
         path: "/interview/notes/react/1",
+      },
+    ],
+  },
+  {
+    title: "浏览器 & 网络",
+    collapsable: false,
+    children: [
+      {
+        title: "占位符",
+        path: "/interview/notes/network/1",
       },
     ],
   },
